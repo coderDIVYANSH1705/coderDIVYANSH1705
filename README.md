@@ -26,6 +26,9 @@ I'm a passionate **Computer Science undergrad** from **Birla Institute of Applie
 ---
 
 ## 🏢 Experience
+### 🪙 COO and CO-Founder - XDAS Technology 
+- Leading team , managing complex operations
+- Exploring world class and industry standard tech and softwares
 
 ### 🟢 SWADHA ORGANICS (8 months) – *Tech Intern (Paid)*
 - Led full-stack development and design of an e-commerce platform
@@ -50,7 +53,7 @@ I'm a passionate **Computer Science undergrad** from **Birla Institute of Applie
 ### 🌤️ [Weather App](https://github.com/coderDIVYANSH1705/weather-project-)
 - Checks real-time weather with animated UI using JS and open weather API.
 
-### 🧾 [DigiCSC Frontend](https://github.com/xdayaan/DigiCSC)
+### 🧾 [DigiCSC ](https://github.com/xdayaan/DigiCSC)
 - A modern frontend for CSC centers using **React Native** for mobile-first experience.
 
 ---
@@ -60,7 +63,7 @@ I'm a passionate **Computer Science undergrad** from **Birla Institute of Applie
 - 🥇 **1st Prize – Mr. Scientist of the Year**, Lucknow Public School  
 - 🥉 **3rd – Frontend Face-Off**, Birla Institute of Applied Sciences  
 - 🧠 **Shortlisted – INSPIRE Awards**, National Science Competition  
-- 🚀 **Finalist – State Level Hackathon UTKARSH**, Uttarakhand Technical University
+- 🚀 **3rd – State Level Hackathon UTKARSH**, Uttarakhand Technical University
 
 ---
 
