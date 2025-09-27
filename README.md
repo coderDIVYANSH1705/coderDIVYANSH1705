@@ -56,7 +56,7 @@ I'm a passionate **Computer Science undergrad** from **Birla Institute of Applie
 ### 🧾 [DigiCSC ](https://github.com/xdayaan/DigiCSC)
 - A modern frontend for CSC centers using **React Native** for mobile-first experience.
 
-- ### 🌤️ [WWebsite for a IT Service company - XQL](https://xqlsystems.com)
+- ### 🌤️ [Website for a IT Service company - XQL](https://xqlsystems.com)
 - Modern Day website for a tech based company fully dynamic build on next js 
 
 ---
