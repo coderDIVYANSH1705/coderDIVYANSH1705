@@ -26,7 +26,7 @@ I'm a passionate **Computer Science undergrad** from **Birla Institute of Applie
 ---
 
 ## 🏢 Experience
-### 🪙 COO and CO-Founder - XDAS Technology 
+### 🪙 Software Developer - XDAS Technology 
 - Leading team , managing complex operations
 - Exploring world class and industry standard tech and softwares
 
@@ -39,27 +39,6 @@ I'm a passionate **Computer Science undergrad** from **Birla Institute of Applie
 
 ---
 
-## 💼 Projects
-
-### 🌐 [XDAS Technology Website](https://www.xdastechnology.com/)
-- A futuristic company website using **Next.js** for a software brand.
-
-### 🪐 [Exopsky – 3D Learning Model](https://github.com/coderDIVYANSH1705/website_exoplanets-interactive-learning-)
-- Built using **Three.js**, this 3D model helps students learn about exoplanets interactively.
-
-### 🏨 [Luxury Hotel Website](https://frontendhotel.netlify.app/)
-- Modern, responsive UI showcasing hotel features and services.
-
-### 🌤️ [Weather App](https://github.com/coderDIVYANSH1705/weather-project-)
-- Checks real-time weather with animated UI using JS and open weather API.
-
-### 🧾 [DigiCSC ](https://github.com/xdayaan/DigiCSC)
-- A modern frontend for CSC centers using **React Native** for mobile-first experience.
-
-- ### 🌤️ [Website for a IT Service company - XQL](https://xqlsystems.com)
-- Modern Day website for a tech based company fully dynamic build on next js 
-
----
 
 ## 🏆 Achievements
 
