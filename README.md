@@ -284,11 +284,8 @@ graph TB
 
 ---
 
-### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/divyansh-mishra/divyansh-mishra/output/github-contribution-grid-snake-dark.svg)
 
----
 
 <img src="https://komarev.com/ghpvc/?username=coderDIVYANSH1705&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
