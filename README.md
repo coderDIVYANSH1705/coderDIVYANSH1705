@@ -189,8 +189,7 @@ graph TB
 <div align="center">
 
 <a href="https://github.com/coderDIVYANSH1705">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderDIVYANSH1705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDIVYANSH1705&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
 </a>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDIVYANSH1705&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
