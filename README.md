@@ -188,15 +188,26 @@ graph TB
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderDIVYANSH1705&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ef4444&icon_color=ef4444&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/coderDIVYANSH1705">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderDIVYANSH1705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDIVYANSH1705&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDIVYANSH1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ef4444&text_color=ffffff" alt="Top Languages" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDIVYANSH1705&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDIVYANSH1705&theme=radical&hide_border=true&background=0D1117&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=coderDIVYANSH1705&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderDIVYANSH1705&theme=tokyonight" alt="Profile Summary" /></p>
 
 </div>
+
+---
+
+### 📊 Contribution Graph
+
+[![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderDIVYANSH1705&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/coderDIVYANSH1705)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=coderDIVYANSH1705&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 ---
 
