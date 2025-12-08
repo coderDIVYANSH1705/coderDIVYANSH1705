@@ -210,17 +210,6 @@ graph TB
 
 ---
 
-### 📊 Contribution Graph
-
-[![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderDIVYANSH1705&theme=redical&hide_border=true&bg_color=0D1117&color=ef4444&line=ef4444&point=ffffff)](https://github.com/coderDIVYANSH1705)
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/coderDIVYANSH1705/coderDIVYANSH1705/output/github-contribution-grid-snake-dark.svg)
-
----
 
 <img src="https://komarev.com/ghpvc/?username=coderDIVYANSH1705&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 ---
@@ -278,11 +267,7 @@ graph TB
 
 ---
 
-### 📊 Contribution Graph
 
-[![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh-mishra&theme=redical&hide_border=true&bg_color=0D1117&color=ef4444&line=ef4444&point=ffffff)](https://github.com/coderDIVYANSH1705?tab=overview&from=2024-12-01&to=2024-12-31)
-
----
 
 
 
