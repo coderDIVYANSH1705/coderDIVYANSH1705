@@ -251,10 +251,8 @@ graph TB
 ### I'm always open to interesting projects and collaborations!
 
 ```
-📧 Email: your.email@example.com
-💼 LinkedIn: linkedin.com/in/divyansh-mishra
-🌐 Portfolio: your-portfolio.com
-💬 Discord: YourDiscord#1234
+📧 Email: divyanshmishraspeaks@gmail.com
+
 ```
 
 ### 💼 Open For
